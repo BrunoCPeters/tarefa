@@ -1,1 +1,1 @@
-# tarefa
+Feito Em Vue.JS pois e a linguaguem que apos pronto da para passar para o Ionic, pouca ferramenta para pesquisar ainda a transição de Vue.Js para Ionic vue.js
